@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @izzetcankurt
-- 👀 I’m interested in coding, playing tennis and dancing.
-- 🌱 I’m currently learning bachata
+- 👀 I’m interested in coding, playing tennis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: E-mail-> kurtizzetcan@gmail.com
 
